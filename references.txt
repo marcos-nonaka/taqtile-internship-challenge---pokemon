@@ -1,0 +1,12 @@
+https://reactnative.dev/docs/flatlist
+https://www.youtube.com/watch?v=I3zD1ZVImrg
+https://medium.com/@akinolu52/how-to-create-a-simple-progress-bar-in-react-native-23c9baa9ebbd
+https://snack.expo.dev/@akinolu52/63d860?platform=web
+https://reactnative.dev/docs/image
+https://pokeapi.co/
+https://www.youtube.com/watch?v=NveAE0D0bWo
+https://fonts.google.com/
+https://docs.expo.dev/develop/user-interface/fonts/
+https://stackoverflow.com/questions/57620799/react-hook-useeffect-is-called-conditionally
+https://www.google.com/
+https://copilot.microsoft.com/
