@@ -2,7 +2,7 @@
 
 ## About
 
-This project is an complete Pokedex App using React Native. The task was to finish this project using data from a Rest API, create a details page to check for pokemon's stats and implement a share feature to send some pokeculture to your friends.
+This project is an complete Pokedex App using React Native. The task was to finish this project using data from a Rest API, create a details page to check for pokemon's stats and implement a share feature to send some pokeculture to your friends. The project can be runned here: https://snack.expo.dev/@marcosnonaka/taqtile-internship-challenge---pokemon
 
 The main purpose of this challenge is not evaluate the candidates' knowledge of react native or front-end development but to show us how they solve a problem and how they study for it.
 
